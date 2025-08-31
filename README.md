@@ -1,6 +1,6 @@
-##This repo contains a small practice project where I explored the basics of working with Pandas in Python.
+**This repo contains a small practice project where I explored the basics of working with Pandas in Python.**
 
-##The notebook shows how to:
+**The notebook shows how to:**
 
 Create a DataFrame from a dictionary
 Check dataset info and summary statistics
